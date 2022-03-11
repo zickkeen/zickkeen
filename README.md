@@ -1,17 +1,23 @@
-- 👋 Hi, I’m @zickkeen
+<h2> Hi, I’m @zickkeen 👋</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zickkeen&show_icons=true&theme=radical" width="380">
+<p><em>I love sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+</em></p>
 - 👀 I’m interested in Backend and PHP,
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on Bojez Creative
 - 📫 How to reach me [![Twitter](https://img.shields.io/badge/twitter-dm_me-blue)](https://twitter.com/zickkeen)
 
-## Donate
+[![Youtobe: zickkeen](https://img.shields.io/badge/subscribers-14k-red?logo=youtube&amp;style=social)](https://www.youtube.com/c/BojezCreative)
+[![GitHub zickkeen](https://img.shields.io/github/followers/zickkeen?label=follow%20github&style=social)](https://github.com/zickkeen)
+[![Twitter Follow](https://img.shields.io/badge/Follow-59-lightgrey?logo=twitter&style=social)](https://twitter.com/zickkeen)
+[![Facebook zickkeen](https://img.shields.io/badge/Friends-zickeen-green?logo=facebook&label=facebook)](https://facebook.com/zickeen)
+[![Telegram zickkeen](https://img.shields.io/badge/Telegram-zickkeen-green?logo=telegram&label=telegram)](https://t.me/zickkeen)
+<br>
+
+## [![ME zickkeen](https://img.shields.io/badge/ME-DONATE-ff69b4.svg?style=flat)](donasi) Donate
 * [![Paypal](https://img.shields.io/badge/Paypal-zickkeen-blue)](https://paypal.me/donateZickkeen)
 * [![Buy Me a coffee](https://img.shields.io/badge/BuyMeCofee-zickkeen-yellow)](https://buymeacoff.ee/zickkeen)
 * [![SociaBuzz](https://img.shields.io/badge/SociaBuzz-zickkeen-green)](https://sociabuzz.com/zickkeen/tribe)
 * [![BitCoin](https://img.shields.io/badge/btc-18xbSr5kmvxzpHEpJ43LAbXqdZ1XcmKQNf-green)](https://sociabuzz.com/zickkeen/tribe)
 * [![BitCoin](https://img.shields.io/liberapay/gives/zickkeen?logo=zickkeen&style=social)](https://liberapay.com/zickkeen)
-
-<!---
-zickkeen/zickkeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
