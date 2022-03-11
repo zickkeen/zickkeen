@@ -2,10 +2,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zickkeen&show_icons=true&theme=radical" width="380">
 <p><em>I love sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
-- 👀 I’m interested in Backend and PHP,
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on Bojez Creative
-- 📫 How to reach me [![Twitter](https://img.shields.io/badge/twitter-dm_me-blue)](https://twitter.com/zickkeen)
+- 👀 I’m interested in Backend and PHP,<br>
+- 🌱 I’m currently learning frontend<br>
+- 💞️ I’m looking to collaborate on Bojez Creative<br>
 
 [![Youtobe: zickkeen](https://img.shields.io/badge/subscribers-14k-red?logo=youtube&amp;style=social)](https://www.youtube.com/c/BojezCreative)
 [![GitHub zickkeen](https://img.shields.io/github/followers/zickkeen?label=follow%20github&style=social)](https://github.com/zickkeen)
