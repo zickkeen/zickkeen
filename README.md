@@ -20,3 +20,5 @@
 * [![BitCoin](https://img.shields.io/badge/btc-18xbSr5kmvxzpHEpJ43LAbXqdZ1XcmKQNf-green)](https://sociabuzz.com/zickkeen/tribe)
 * [![BitCoin](https://img.shields.io/liberapay/gives/zickkeen?logo=zickkeen&style=social)](https://liberapay.com/zickkeen)
 <br>
+
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=zickkeen&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for zickkeen"></img>
