@@ -21,4 +21,4 @@
 * [![BitCoin](https://img.shields.io/liberapay/gives/zickkeen?logo=zickkeen&style=social)](https://liberapay.com/zickkeen)
 <br>
 
-<img src="https://ipv6.he.net/certification/create_badge.php?pass_name=zickkeen&badge=2"></img>
+<img align='right' src="https://ipv6.he.net/certification/create_badge.php?pass_name=zickkeen&badge=2">
